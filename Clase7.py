@@ -1,3 +1,7 @@
+# As an exercise we make an application that asks the user 
+# to enter integers which will be inserted into a list.
+# If you enter zero the application ends.
+
 lista = []
 lista2= []
 numero = int(input("Ingrese un numero entero, cero para finalizar: "))
@@ -8,7 +12,7 @@ while(numero !=0):
 
 print(lista)
 
-# sort the list from smallest to largest
+# Find the smallest and largest number in the list
 
 if(len(lista)>0):
     maximo= lista[0]
@@ -22,6 +26,7 @@ if(len(lista)>0):
     print(minimo)
     print(maximo)
 
+# Sort the list from smallest to largest
 # This is that i did
 
 for i in range (len(lista)):
