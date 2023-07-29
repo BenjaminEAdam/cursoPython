@@ -1,0 +1,29 @@
+Pregunta 1)
+Opcion correcta: D (HTML)
+
+Pregunta 2)
+Opcion correcta: B (Un espacio en memoria donde se guarda información)
+
+Pregunta 3)
+Opciones correctas: C,E,F (Lista, Tupla, Diccionario)
+
+Pregunta 4)
+Opcion correcta: A (Presentar opciones de ramificación al programa, de tal manera que el cumplimiento de una condición implica la ejecución de ciertas líneas de código mientras que el no complimiento implica la ejecución de otras líneas de código)
+
+Pregunta 5)
+Opcion correcta: C (Repetir cierta cantidad de veces un bloque de código)
+
+Pregunta 6)
+Opcion correcta: E (Todas las anteriores son correctas)
+
+Pregunta 7)
+Opcion correcta: C (Con clases y objetos)
+
+Pregunta 8)
+Opcion correcta: C (Una colección de tipo diccionario)
+
+Pregunta 9)
+Opcion correcta: C (Información estadística)
+
+Pregunta 10)
+Opcion correcta: B (“w” es para escritura de un archivo. Si este no existe, lo crea, si existe, también lo crea, con lo cual borra el contenido que este tenía. Por otra parte, la “r” es para lectura de un archivo existente.)
